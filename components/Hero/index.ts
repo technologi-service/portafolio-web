@@ -1,0 +1,1 @@
+export { HeroHighlightDemo } from "./Hero";
