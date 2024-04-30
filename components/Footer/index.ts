@@ -1,0 +1,1 @@
+export { BackgroundBeam } from "./Footer";
